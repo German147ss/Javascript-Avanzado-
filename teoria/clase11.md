@@ -1,4 +1,4 @@
-![WideImg](https://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+![WideImg](https://fictizia.com/img/github/Labora-plan-estudios-github.jpg)
 
  
 

@@ -285,7 +285,7 @@ Conocer los siguientes conceptos serán importantes a la hora de trabajar con Gi
 
 # Ejercicio
 
-Es hora de que nos conozcamos un poco más. Para ello vamos a colaborar todos en el [repositorio del curso](https://github.com/Fictizia/Curso-de-JavaScript-avanzado-para-desarrolladores_ed6). Si es la primera vez que usamos github, tendremos que registrarnos y activar nuestra cuenta. Además, tendremos que solicitar al profe que nos de acceso como colaboradores en el repositorio del curso.
+Es hora de que nos conozcamos un poco más. Para ello vamos a colaborar todos en el [repositorio del curso](https://github.com/German147ss/Javascript-Avanzado-). Si es la primera vez que usamos github, tendremos que registrarnos y activar nuestra cuenta. Además, tendremos que solicitar al profe que nos de acceso como colaboradores en el repositorio del curso.
 
 1. Clonar el proyecto del curso en local
 
@@ -303,7 +303,7 @@ Es hora de que nos conozcamos un poco más. Para ello vamos a colaborar todos en
 
 - De donde vienes a donde vas. Cual es tu background y cómo te gustaría usar lo que aprendas en el master.
 
-- Qué hobbies tienes. En qué inviertes tu tiempo cuando no estás aprendiendo en Fictizia.
+- Qué hobbies tienes. En qué inviertes tu tiempo cuando no estás aprendiendo en Labora.
 
 - Algún libro, serie, película o canción imprescindible para ti.
 

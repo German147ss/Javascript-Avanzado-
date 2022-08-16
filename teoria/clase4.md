@@ -52,8 +52,8 @@ Desde ES6 podemos acortar la declaración de claves en objetos:
 
 ```javascript
 
-const nombre = 'Fran Quesada';
-const escuela = 'Fictizia';
+const nombre = 'German Mendieta';
+const escuela = 'Labora';
 
 const profesor = { nombre, escuela }
 ```
@@ -271,7 +271,7 @@ const objeto = Object.fromEntries(entradas)
 
 ```javascript
 const objeto = {
-  nombre: 'Fran Quesada',
+  nombre: 'German Mendieta',
   edad: 26,
 }
 
@@ -282,18 +282,18 @@ const keys = Object.keys(objeto) // ['nombre', 'edad']
 
 ```javascript
 const objeto = {
-  nombre: 'Fran Quesada',
+  nombre: 'German Mendieta',
   edad: 26,
 }
 
-const keys = Object.values(objeto) // ['Fran Quesada', 26]
+const keys = Object.values(objeto) // ['German Mendieta', 26]
 ```
 
 * `.freeze(objeto)`: Congela el objeto proporcionado para que no se le puedan añadir ni modificar propiedades. ¡Importante!: No se puede descongelar
 
 ```javascript
 const objeto = {
-  nombre: 'Fran Quesada',
+  nombre: 'German Mendieta',
   edad: 26,
 }
 
@@ -312,7 +312,7 @@ const nuevoObjeto = {
 
 ```javascript
 const objeto = {
-  nombre: 'Fran Quesada',
+  nombre: 'German Mendieta',
   edad: 26,
 }
 

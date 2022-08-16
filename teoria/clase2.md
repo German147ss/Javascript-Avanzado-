@@ -576,7 +576,7 @@ for (const valor of iterable){
 - [wtfjs](https://github.com/denysdovhan/wtfjs)
 - [The secret life of javascript primitives](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
 
-### Ejercicios
+## Ejercicios
 
 1. Crear una función que reciba un array de números enteros positivos desordenados y devuelva otro array con los números ordenados.
 

@@ -1,4 +1,4 @@
-![WideImg](https://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+![WideImg](https://fictizia.com/img/github/Labora-plan-estudios-github.jpg)
 
  
 
@@ -166,14 +166,14 @@ Todo esto se refleja en archivo package.json de la siguiente manera:
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fictizia/Curso-de-JavaScript-avanzado-para-desarrolladores_ed6.git"
+    "url": "git+https://github.com/German147ss/Javascript-Avanzado-.git"
   },
-  "author": "Fran Quesada",
+  "author": "German Mendieta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fictizia/Curso-de-JavaScript-avanzado-para-desarrolladores_ed6/issues"
+    "url": "https://github.com/German147ss/Javascript-Avanzado-/issues"
   },
-  "homepage": "https://github.com/Fictizia/Curso-de-JavaScript-avanzado-para-desarrolladores_ed6#readme",
+  "homepage": "https://github.com/German147ss/Javascript-Avanzado-#readme",
   "devDependencies": {
     "jest": "^26.0.1"
   }

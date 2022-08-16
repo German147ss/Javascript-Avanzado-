@@ -362,9 +362,9 @@ jugando llamarán.`
 * `.length`: Devuelve la longitud de un string
 
 ```javascript
-const cadena = 'Fictizia';
+const cadena = 'Labora';
 
-console.log(`Fictizia tiene ${cadena.length} caracteres.`);
+console.log(`Labora tiene ${cadena.length} caracteres.`);
 
 console.log('Una cadena vacia tiene ' + ''.length + ' caracteres.');
 ```
@@ -374,7 +374,7 @@ console.log('Una cadena vacia tiene ' + ''.length + ' caracteres.');
 * `.charAt(posicion)`
 
 ```javascript
-const cadena = 'Fictizia';
+const cadena = 'Labora';
 console.log(`El carácter(posición) 3 es "${cadena.charAt(3)}"`)
 
 // También podemos acceder con [3]

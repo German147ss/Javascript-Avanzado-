@@ -140,7 +140,7 @@ Los Maps se crean usando el constructor de la clase Map. Este constructor puede 
 const miMapa = new Map()
 
 // O si tenemos un array de arrays...
-const yoMismo = [["nombre","Fran Quesada"], ["edad",27]];
+const yoMismo = [["nombre","German Mendieta"], ["edad",27]];
 
 const ahoraSoyUnMapa = new Map(yoMismo);
 ```

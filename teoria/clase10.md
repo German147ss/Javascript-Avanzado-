@@ -260,9 +260,9 @@ const alias = email.replace(soloNombreRegex, '$1');
 
 11. Crear una función que lea una frase y devuelva la palabra más larga que contenga, al menos, una mayúscula.
 
-12. [HARDCORE Level] Obtener a partir del html de la página web de [Fictizia](https://www.fictizia.com/profesorado) los nombres y fotos de los profesores. Usar la función proporcionada para getProfesores para obtener el HTML de la web. El resultado debe ser un array de objetos. Cada objeto contendrá las propiedades `nombre` e `imagen`.
+12. [HARDCORE Level] Obtener a partir del html de la página web de [Labora](https://www.fictizia.com/profesorado) los nombres y fotos de los profesores. Usar la función proporcionada para getProfesores para obtener el HTML de la web. El resultado debe ser un array de objetos. Cada objeto contendrá las propiedades `nombre` e `imagen`.
 
-Nota: Ejecutar el código en la misma web de Fictizia para evitar errores de CORS.
+Nota: Ejecutar el código en la misma web de Labora para evitar errores de CORS.
 
 ```javascript
 
@@ -270,7 +270,7 @@ console.log(profes)
 
 // Formato esperado
 /* resultado = [{
-  nombre: 'Fran Quesada',
+  nombre: 'German Mendieta',
   imagen: 'https://www.fictizia.com/app/images/fran-quesada.jpeg',
 }] */
 ```
