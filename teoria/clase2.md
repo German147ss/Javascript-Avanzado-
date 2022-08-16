@@ -1,6 +1,6 @@
 ![LaboraImg](https://labora.ar/wp-content/uploads/2021/12/logo-Labora.png)
 
-# [Curso de JavaScript avanzado para desarrolladores](https://fictizia.com/formacion/curso-javascript-avanzado)
+ 
 
 ## Clase 2
 
@@ -155,8 +155,6 @@ prompt("¿Cómo te llamas?", 0)
 ```
 
 ### JS
-
-![Brendan Eich](../assets/clase2/brendan-eich.jpg)
 
 JavaScript es un lenguaje:
 

@@ -1,6 +1,6 @@
 ![WideImg](https://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
 
-# [Curso de JavaScript avanzado para desarrolladores](https://fictizia.com/formacion/curso-javascript-avanzado)
+ 
 
 ## Clase 20
 
