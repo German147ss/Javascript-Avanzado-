@@ -159,7 +159,7 @@ Todo esto se refleja en archivo package.json de la siguiente manera:
 {
   "name": "javascript-avanzado",
   "version": "1.0.0",
-  "description": "![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)",
+  "description": "![LaboraImg](https://labora.ar/wp-content/uploads/2021/12/logo-Labora.png)",
   "main": "index.js",
   "scripts": {
     "test": "jest"

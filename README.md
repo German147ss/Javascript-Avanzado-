@@ -1,6 +1,6 @@
-![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+![LaboraImg](https://labora.ar/wp-content/uploads/2021/12/logo-Labora.png)
 
-# [Curso de JavaScript avanzado para desarrolladores](https://fictizia.com/formacion/curso-javascript-avanzado)
+# Curso de JavaScript avanzado para desarrolladores
 ### Programación orientada a objetos con JavaScript, ECMA6+, Patrones, AJAX avanzado, HTML5 avanzado, APIs externas
 
 JavaScript es un lenguaje de programación con una gran cantidad de sutilezas. Este curso de JavaScript avanzado para desarrolladores está diseñado para que sus alumnos entiendan el por qué de estas sutilezas y qué herramientas provee el propio lenguaje para que puedan lidiar con ellas en su día a día laboral.
@@ -12,13 +12,6 @@ La metodología del curso es eminentemente práctica sustentándose sobre una s�
 El curso de JavaScript avanzado para desarrolladores está diseñado para aquellos desarrolladores que ya tienen conocimientos de programación con JavaScript y quieren alcanzar la excelencia en su código JavaScript. Si no dispones de esos conocimientos o quieres asegurar que tu base en JS es la adecuada, te recomendamos que antes realices el «Curso de JavaScript» donde aprenderás a programar utilizando JavaScript y obteniendo con él más que una base sólida para escribir código JS eficiente.
 
 Para asegurarnos de que los alumnos disponen del nivel suficiente de JS que les permita que el curso les resulte útil, los interesados deberán pasar previamente un breve cuestionario técnico sobre JavaScript.
-
-# Sobre el curso
-
-* Horario: Lunes, Miércoles y viernes de 19:00 a 22:00
-* Fechas: 25/01/2021 a 15/03/2021
-* Festivos:
-  * 01/02/2021: El profe no puede
 
 # Indice
 
@@ -43,4 +36,3 @@ Para asegurarnos de que los alumnos disponen del nivel suficiente de JS que les 
 | Clase 17 | Clase 17 | Testing: Práctica |
 | Clase 18 | [Clase 18](teoria/clase18.md) | APIS de Navegador II  |
 | Clase 19 | [Clase 19](teoria/clase19.md) | APIS de Navegador III |
-

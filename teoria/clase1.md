@@ -1,6 +1,5 @@
-![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+![LaboraImg](https://labora.ar/wp-content/uploads/2021/12/logo-Labora.png)
 
-# [Curso de JavaScript avanzado para desarrolladores](https://fictizia.com/formacion/curso-javascript-avanzado)
 
 ## Clase 1
 
@@ -11,16 +10,11 @@
 
 ### Presentación
 
-![Fran Quesada](../assets/clase1/fran-quesada.jpg)
-
-#### Bio
-
-Coleccionista de líneas de código, funkos, cómics ~~y estrenos de cine~~. Siempre en las nubes ☁️. Bla-bla developer en [zityhub](https://zityhub.com). Profe en [@fictiziaescuela](https://twitter.com/fictiziaescuela).
-
+![German Mendieta](../assets/clase1/german-mendieta.jpg)
 ### Redes sociales
 
-- 🕊 [@totegsito](https://twitter.com/totegsito)
-- 👨🏼‍💻 [Fran Quesada Muñoz](https://www.linkedin.com/in/francisco-quesada-mu%C3%B1oz/)
+- 📷 [@germendietaok](https://www.instagram.com/germendietaok/)
+- 👨🏼‍💻 [German Mendieta](https://www.linkedin.com/in/mendietagerman/)
 
 ### Sobre el curso
 
@@ -78,22 +72,6 @@ Si bien en un comienzo Javascript sólo se utilizaba para dar "vidilla" al conte
 
 [![Top programming languages](../assets/clase1/top-programming-languages.png)](https://octoverse.github.com/)
 
-![state of js](../assets/clase1/arrows_overview.png)
-
-![state of js](../assets/clase1/scatterplot_overview.png)
-
-[![state of js](../assets/clase1/front_end_frameworks_experience_ranking.png)](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/#front_end_frameworks_experience_ranking)
-
-![state of js](../assets/clase1/front_end_frameworks_experience_marimekko.png)
-
-#### Hablemos de la realidad
-
-![hate to jquery](../assets/clase1/hate-to-jquery.jpg)
-
-![meme front-end fight](../assets/clase1/meme-front-end-fight.jpg)
-
-![meme frameworks front](../assets/clase1/meme-fw-front.jpg)
-
 ### Más información
 
 - La guerra de los navegadores [🔗](https://www.emezeta.com/articulos/browser-wars-la-historia-de-la-guerra-de-navegadores)
@@ -105,13 +83,13 @@ Si bien en un comienzo Javascript sólo se utilizaba para dar "vidilla" al conte
 
 ## Control de versiones
 
-Permite saber qué cambios se han realizado en un proyecto en un punto del tiempo y aplicar distintas operaciones sobre dichos cambios. Permite evitar situaciones tan "heroicas" como [esta](https://www.youtube.com/watch?v=sdlib5zuc3c&feature=youtu.be&t=70). La más utilizada de estas herramientas (y que usaremos en el curso) es git, pero existen distintas alternativas (Subversion, Mercurial, ~~tantos .zip como sea necesario~~).
+Permite saber qué cambios se han realizado en un proyecto en un punto del tiempo y aplicar distintas operaciones sobre dichos cambios. La más utilizada de estas herramientas (y que usaremos en el curso) es git, pero existen distintas alternativas (Subversion, Mercurial, ~~tantos .zip como sea necesario~~).
 
 ### Git
 
 Git es, quizás, la herramienta de control de versiones más utilizada en el sector del desarrollo web. El modelo de Git está basado en ramas que parten de un punto común, como si de un arbol se tratase. Sobre este arbol, nosotros iremos guardando cambios en nuestros proyectos a lo largo del tiempo, siempre en una rama, que se irán juntando en algún punto del tiempo. Lo que git guardará siempre será el histórico de cambios en los ficheros, no los ficheros en sí. Si bien se puede utilizar con herramientas gráficas, vamos a aprender a utilizarla desde la terminal y a extrapolar eso a otras herramientas.
 
-**Instalación[🔗](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)**
+**[Instalación 🔗](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)**
 
 #### Uso
 
@@ -218,21 +196,21 @@ Vamos a crear nuestro primer repositorio de código, para ello:
 
 - Crearemos un nuevo archivo index.txt dentro del mismo
 
-- Le diremos a git que es un repositorio de código y que tiene que estar al tanto de los cambios
+- Le diremos a git que es un repositorio de código y que tiene que estar al tanto de los cambios. `git init`
 
 - Escribiremos dentro del archivo index.txt una breve presentación.
 
-- Añadiremos el archivo index.txt al índice de git (Index).
+- Añadiremos el archivo index.txt al índice de git (Index). `git add index.txt`
 
-- Consultaremos qué cambios se han producido en el repositorio.
+- Consultaremos qué cambios se han producido en el repositorio. `git status`
 
 - Añadiremos al final del fichero index.txt la hora actual.
 
-- Consultaremos de nuevo el estado del repositorio.
+- Consultaremos de nuevo el estado del repositorio. `git status`
 
-- Volveremos a añadir estos cambios al índice de git (Index).
+- Volveremos a añadir estos cambios al índice de git (Index). `git add index.txt`
 
-- Guardaremos todos los cambios que hemos hecho en el repositorio (Repository)
+- Guardaremos todos los cambios que hemos hecho en el repositorio (Repository) `git commit -m "nuevo archivo index.txt con la hora actual"`
 
 Trabajando con ramas
 ====================
