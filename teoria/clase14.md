@@ -1,4 +1,4 @@
-![WideImg](https://fictizia.com/img/github/Labora-plan-estudios-github.jpg)
+![LaboraImg](https://labora.ar/wp-content/uploads/2021/12/logo-Labora.png)
 
  
 

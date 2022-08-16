@@ -4,11 +4,8 @@
 
 ### Expresiones regulares
 
-![Mr Pickles](https://media.giphy.com/media/3oEjHJxLCoY8qFGUJW/giphy.gif)
 
 Una expresión regular es un patrón de búsqueda en forma de texto. Se convierten al final en un metalenguaje de búsqueda sobre cadenas de texto. Su uso suele estar ligado a como funciona este metalenguaje.
-
-![](https://media.giphy.com/media/gqf0P3jhmEJNK/giphy.gif)
 
 #### Declaración
 
